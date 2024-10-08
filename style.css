@@ -1,0 +1,51 @@
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+.heading {
+    width: 1051px;
+    height: 300px;
+    top: 10px;
+    gap: 0px;
+    opacity: 0px;    
+    border: 2px solid #000000;
+}
+
+h1,p{
+    margin-left: 29px;
+}
+
+
+p{
+ font-family:'Inter';
+text-align: left; 
+
+
+}
+
+.section-2{
+width: 1051px;
+height: 400px;
+top: 742px;
+left: 58px;
+gap: 0px;
+opacity: 0px;
+}
+
+.beagle{
+    width:500px;
+}
+
+a.link-text{
+    color: #000000;
+    margin-left: 28px;
+}
+
+
+
+
+a.read-more{
+    color:black;
+    margin-left: 28px;
+}
+
